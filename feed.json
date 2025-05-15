@@ -1,0 +1,100 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jeff Ruane",
+	"icon": "https://micro.blog/jefbrr/avatar.jpg",
+	"home_page_url": "https://micro.jbrr.dev/",
+	"feed_url": "https://micro.jbrr.dev/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jefbrr.micro.blog/2025/05/14/our-hearts-are-just-made.html",
+				
+				"content_html": "<p>our hearts are just made out of strings to be pulled</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "our hearts are just made out of strings to be pulled\n\n<img src=\"uploads/2025/image.jpg\" width=\"600\" height=\"600\" alt=\"Allysse and Uzi, our old Corgi, looking out over a lake in a mountain valley in Wyoming \">\n",
+				"date_published": "2025-05-14T22:23:32-06:00",
+				"url": "https://micro.jbrr.dev/2025/05/14/our-hearts-are-just-made.html",
+				"tags": ["Photos","Quotes"]
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2025/05/14/i-guess-its-all-just.html",
+				
+				"content_html": "<p>i guess it’s all just part of it. we love and we lose. we’re in motion until we’re not. time relentlessly, quietly lumbers on, and we find ourselves farther and farther from where we started. we know where we thought we’d be but not where we end up.</p>\n",
+				"content_text": "i guess it’s all just part of it. we love and we lose. we’re in motion until we’re not. time relentlessly, quietly lumbers on, and we find ourselves farther and farther from where we started. we know where we thought we’d be but not where we end up.\n",
+				"date_published": "2025-05-14T13:26:59-06:00",
+				"url": "https://micro.jbrr.dev/2025/05/14/i-guess-its-all-just.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/11/22/took-a-trip.html",
+				
+				"content_html": "<p>Took a trip down to the Great Sand Dunes</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Took a trip down to the Great Sand Dunes\n\n<img src=\"uploads/2022/29681ed16b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2022/66e35f2d70.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2022/a3a77655ba.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2022-11-22T20:43:56-06:00",
+				"url": "https://micro.jbrr.dev/2022/11/22/took-a-trip.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/11/02/there-will-be.html",
+				
+				"content_html": "<blockquote>\n<p>There will be feasting and dancing in Jerusalem next year\nI am going to make it through this year\nIf it kills me</p>\n</blockquote>\n<ul>\n<li>The Mountain Goats - <em>This Year</em></li>\n</ul>\n",
+				"content_text": "> There will be feasting and dancing in Jerusalem next year\nI am going to make it through this year\nIf it kills me\n\n- The Mountain Goats - _This Year_\n",
+				"date_published": "2022-11-02T01:35:00-06:00",
+				"url": "https://micro.jbrr.dev/2022/11/02/there-will-be.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/11/01/sasquatch-coyly-waved.html",
+				
+				"content_html": "<p>Sasquatch coyly waved at me with a fleeting smile. “Your beer’s gone skunk,” they mumbled, lumbering away.</p>\n<p>“How do you figure?”</p>\n<p>“My nose is proportional to my feet. It’s skunk.”</p>\n<p>And they were gone. The beer tasted fine. Not great, but fine.</p>\n",
+				"content_text": "Sasquatch coyly waved at me with a fleeting smile. “Your beer’s gone skunk,” they mumbled, lumbering away. \n\n“How do you figure?”\n\n“My nose is proportional to my feet. It’s skunk.” \n\nAnd they were gone. The beer tasted fine. Not great, but fine.\n",
+				"date_published": "2022-11-01T19:30:02-06:00",
+				"url": "https://micro.jbrr.dev/2022/11/01/sasquatch-coyly-waved.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/10/28/as-fascinating-as.html",
+				
+				"content_html": "<p>As fascinating as the whole Twitter takeover is, I don’t want to lose sight of how much it must suck for the employees, and how stressful it must be.</p>\n",
+				"content_text": "As fascinating as the whole Twitter takeover is, I don’t want to lose sight of how much it must suck for the employees, and how stressful it must be. \n",
+				"date_published": "2022-10-28T17:13:28-06:00",
+				"url": "https://micro.jbrr.dev/2022/10/28/as-fascinating-as.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/10/27/this-was-a.html",
+				
+				"content_html": "<p>This was a long time coming. <a href=\"https://www.washingtonpost.com/politics/2022/10/27/2020-election-fraud-claims-voting/\">www.washingtonpost.com/politics/&hellip;</a></p>\n",
+				"content_text": "This was a long time coming. [www.washingtonpost.com/politics/...](https://www.washingtonpost.com/politics/2022/10/27/2020-election-fraud-claims-voting/)\n",
+				"date_published": "2022-10-27T18:30:41-06:00",
+				"url": "https://micro.jbrr.dev/2022/10/27/this-was-a.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/10/27/im-thinking-about.html",
+				
+				"content_html": "<p>I’m thinking about getting a new camera sometime soon. I’m leaning towards the FujiFilm X-Pro3, but I’m a little worried that the rangefinder experience will be more frustrating than fun.</p>\n",
+				"content_text": "I’m thinking about getting a new camera sometime soon. I’m leaning towards the FujiFilm X-Pro3, but I’m a little worried that the rangefinder experience will be more frustrating than fun. \n",
+				"date_published": "2022-10-27T03:16:07-06:00",
+				"url": "https://micro.jbrr.dev/2022/10/27/im-thinking-about.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/10/26/this-will-be.html",
+				
+				"content_html": "<p>This will be distressing to read, but I can&rsquo;t help myself. <a href=\"https://muse.jhu.edu/issue/48924\">muse.jhu.edu/issue/489&hellip;</a></p>\n",
+				"content_text": "This will be distressing to read, but I can't help myself. [muse.jhu.edu/issue/489...](https://muse.jhu.edu/issue/48924)\n",
+				"date_published": "2022-10-26T06:48:47-06:00",
+				"url": "https://micro.jbrr.dev/2022/10/26/this-will-be.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/09/08/what-should-i.html",
+				
+				"content_html": "<p>What should I write about on here? I think a lot about extremism and misinformation, but I don’t see many people writing about that…</p>\n",
+				"content_text": "What should I write about on here? I think a lot about extremism and misinformation, but I don’t see many people writing about that…\n",
+				"date_published": "2022-09-08T22:35:11-06:00",
+				"url": "https://micro.jbrr.dev/2022/09/08/what-should-i.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2022/09/07/helllllo-microblog.html",
+				
+				"content_html": "<p>Helllllo, micro.blog 👋</p>\n",
+				"content_text": "Helllllo, micro.blog 👋\n",
+				"date_published": "2022-09-07T21:36:16-06:00",
+				"url": "https://micro.jbrr.dev/2022/09/07/helllllo-microblog.html"
+			}
+	]
+}
