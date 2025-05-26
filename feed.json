@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jefbrr.micro.blog/2025/05/26/what-a-great-day-for.html",
+				
+				"content_html": "<p>what a great day for taking photos. mountain fog is truly magical.</p>\n<p><img src=\"https://micro.jbrr.dev/uploads/2025/image-20250526-140327-dd7ecd3e.jpg\" alt=\"Low lying clouds forming fog on the Flatirons in Boulder, Colorado\"></p>\n",
+				"content_text": "what a great day for taking photos. mountain fog is truly magical. \n\n![Low lying clouds forming fog on the Flatirons in Boulder, Colorado](https://micro.jbrr.dev/uploads/2025/image-20250526-140327-dd7ecd3e.jpg)\n",
+				"date_published": "2025-05-26T14:04:06-06:00",
+				"url": "https://micro.jbrr.dev/2025/05/26/what-a-great-day-for.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2025/05/15/ball-arena-our-boys-are.html",
+				
+				"content_html": "<p>our boys are still fighting! what a game! 🏀</p>\n<p>Ball Arena. <a href=\"http://maps.apple.com/?ll=39.748559,-105.007796\">📍</a>\n<img src=\"https://micro.jbrr.dev/uploads/2025/image-20250515-213812-c54c20f0.jpg\" alt=\"Nikola Jokic and Russell Westbrook standing at half court during game 4 against the Thunder\"></p>\n",
+				"content_text": "our boys are still fighting! what a game! 🏀\n\nBall Arena. [📍](http://maps.apple.com/?ll=39.748559,-105.007796)\n![Nikola Jokic and Russell Westbrook standing at half court during game 4 against the Thunder](https://micro.jbrr.dev/uploads/2025/image-20250515-213812-c54c20f0.jpg)\n",
+				"date_published": "2025-05-15T21:39:12-06:00",
+				"url": "https://micro.jbrr.dev/2025/05/15/ball-arena-our-boys-are.html"
+			},
+			{
+				"id": "http://jefbrr.micro.blog/2025/05/15/tonight-might-be-the-last.html",
+				
+				"content_html": "<p>tonight might be the last nuggets game until October, and that really bums me out. it’s been such a good distraction these past three months 🏀</p>\n",
+				"content_text": "tonight might be the last nuggets game until October, and that really bums me out. it’s been such a good distraction these past three months 🏀\n",
+				"date_published": "2025-05-15T16:21:59-06:00",
+				"url": "https://micro.jbrr.dev/2025/05/15/tonight-might-be-the-last.html"
+			},
+			{
 				"id": "http://jefbrr.micro.blog/2025/05/14/our-hearts-are-just-made.html",
 				
 				"content_html": "<p>our hearts are just made out of strings to be pulled</p>\n<!-- raw HTML omitted -->\n",
@@ -27,7 +51,7 @@
 				"id": "http://jefbrr.micro.blog/2022/11/22/took-a-trip.html",
 				
 				"content_html": "<p>Took a trip down to the Great Sand Dunes</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Took a trip down to the Great Sand Dunes\n\n<img src=\"uploads/2022/29681ed16b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2022/66e35f2d70.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2022/a3a77655ba.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Took a trip down to the Great Sand Dunes\n\n<img src=\"https://cdn.uploads.micro.blog/81724/2022/29681ed16b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/81724/2022/66e35f2d70.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/81724/2022/a3a77655ba.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2022-11-22T20:43:56-06:00",
 				"url": "https://micro.jbrr.dev/2022/11/22/took-a-trip.html",
 				"tags": ["Photos"]
